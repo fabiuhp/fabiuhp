@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Fábio Henrique Pereira</h1>
 <h3 align="center">Um dev java, que atualmente mora em Criciúma/SC.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiuhp" alt="fabiuhp" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando na **Alura Cursos Online**
 
 - 👯 Tenho desenvolvido interesse em aprimorar minhas skills em **Java**
