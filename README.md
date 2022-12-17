@@ -5,13 +5,13 @@
 
 - 🔭 Atualmente estou trabalhando na **Alura Cursos Online**
 
-- 👯 Tenho desenvolvido interesse em aprimorar minhas skills em **Java**
+- 👯 Tenho desenvolvido interesse em aprimorar minhas skills em: **Java**
 
-- 📫 Meu email **fabiuhp@msn.com**
+- 📫 Meu email: **fabiuhp@msn.com**
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/fabiuhp/](https://www.linkedin.com/in/fabiuhp/)
+- 📄 Minhas experiências: [https://www.linkedin.com/in/fabiuhp/](https://www.linkedin.com/in/fabiuhp/)
 
-- ⚡ Fato engraçado **Sou faixa preta em karatê e pratico desde os 11 anos de idade.**
+- ⚡ Fato engraçado: **Sou faixa preta em karatê e pratico desde os 11 anos de idade.**
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
