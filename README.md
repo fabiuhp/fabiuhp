@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Fábio Henrique Pereira</h1>
-<h3 align="center">Um dev java, que atualmente mora em Criciúma/SC.</h3>
+<h3 align="center">“Quem não se contenta com pouco, não se contenta com nada.” – Epicuro.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiuhp&label=Profile%20views&color=0e75b6&style=flat" alt="fabiuhp" /> </p>
 
