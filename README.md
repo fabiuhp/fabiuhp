@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiuhp&label=Profile%20views&color=0e75b6&style=flat" alt="fabiuhp" /> </p>
 
-- 🔭 Atualmente estou trabalhando na **Alura Cursos Online**
+- 🔭 Atualmente estou trabalhando na **Zup Innovation**
 
 - 👯 Tenho desenvolvido interesse em aprimorar minhas skills em: **Backend**
 
