@@ -11,7 +11,7 @@
 
 - 📄 Minhas experiências: [https://www.linkedin.com/in/fabiuhp/](https://www.linkedin.com/in/fabiuhp/)
 
-- ⚡ Fato engraçado: **Sou faixa marrom em karatê e pratico desde os 11 anos de idade.**
+- ⚡ Fato engraçado: **Sou apaixonado por artes marciais. Sou faixa marrom em karatê e faixa branca de Jiu-Jitsu**
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
