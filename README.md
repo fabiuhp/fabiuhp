@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na **Zup Innovation** dentro de projetos do **Itaú Unibanco**
 
-- 👯 Tenho desenvolvido interesse em aprimorar minhas skills em: **Backend**
+- 🤖 Tenho desenvolvido interesse em aprimorar minhas skills em: **Backend**
 
 - 📫 Meu email: **fabiuhp@msn.com**
 
