@@ -12,8 +12,3 @@
 - 📄 Minhas experiências: [https://www.linkedin.com/in/fabiuhp/](https://www.linkedin.com/in/fabiuhp/)
 
 - ⚡ Fato engraçado: **Sou apaixonado por artes marciais. Sou faixa marrom em karatê e faixa azul de Jiu-Jitsu**
-
-<h3 align="left">Minhas redes:</h3>
-<p align="left">
-<a href="https://twitter.com/fabiuhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabiuhen" height="30" width="40" /></a>
-</p>
