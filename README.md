@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na **Zup Innovation** dentro de projetos do **Itaú Unibanco**
 
-- 🤖 Tenho desenvolvido interesse em aprimorar minhas skills em: **Backend no geral. Atualmente na luta pra evoluir com GoLang**
+- 🤖 Tenho desenvolvido interesse em aprimorar minhas skills em: **Java/GO**
 
 - 📫 Meu email: **fabiuhp@msn.com**
 
